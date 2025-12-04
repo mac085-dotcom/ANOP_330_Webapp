@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec  4 00:03:04 2025
+
+@author: micha
+"""
+streamlit
+pandas
+scikit-learn
+numpy
